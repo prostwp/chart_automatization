@@ -1,0 +1,1283 @@
+2024-06-25 21:41:31 [INFO]: Начало выполнения скрипта
+2024-06-25 21:41:31 [ERROR]: Ошибка при выполнении скрипта Puppeteer: dataState is not defined
+2024-06-25 21:43:37 [INFO]: Начало выполнения скрипта
+2024-06-25 21:43:37 [ERROR]: Ошибка при выполнении скрипта Puppeteer: ENOENT: no such file or directory, open 'range.txt'
+2024-07-01 18:16:51 [INFO]: Начало выполнения скрипта
+2024-07-01 18:16:51 [ERROR]: Ошибка при выполнении скрипта Puppeteer: ENOENT: no such file or directory, open 'C:\Users\dkarnachev\Downloads\Telegram Desktop\chart_automatization\range.txt'
+2024-07-01 18:22:10 [INFO]: Начало выполнения скрипта
+2024-07-01 18:22:10 [ERROR]: Ошибка при выполнении скрипта Puppeteer: ENOENT: no such file or directory, open 'C:\Users\dkarnachev\Downloads\Telegram Desktop\chart_automatization\range.txt'
+2024-07-01 18:27:29 [INFO]: Начало выполнения скрипта
+2024-07-01 18:27:29 [INFO]: Заголовок: {{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}
+2024-07-01 18:27:29 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-01 18:27:29 [INFO]: Всего открытых страниц: 10
+2024-07-01 18:27:29 [INFO]: Элемент ввода title найден
+2024-07-01 18:27:31 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}" в поле title
+2024-07-01 18:27:31 [INFO]: Элемент ввода channel найден
+2024-07-01 18:27:31 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-01 18:27:31 [INFO]: Элемент ввода educationPost найден
+2024-07-01 18:27:31 [INFO]: Введен текст "Flag" и нажата клавиша Enter в поле educationPost
+2024-07-01 18:27:31 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-01 18:27:31 [INFO]: Второй элемент ant-select-selector найден
+2024-07-01 18:27:31 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-01 18:27:32 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-01 18:27:32 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-01 18:27:32 [INFO]: Элементы ввода checkbox найдены
+2024-07-01 18:27:32 [INFO]: Клик по второму checkbox
+2024-07-01 18:27:32 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-01 18:27:32 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-01 18:27:33 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:00:53 [INFO]: Начало выполнения скрипта
+2024-07-02 16:00:53 [INFO]: Заголовок: {{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}
+2024-07-02 16:02:15 [INFO]: Начало выполнения скрипта
+2024-07-02 16:02:15 [INFO]: Заголовок: {{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}
+2024-07-02 16:03:34 [INFO]: Начало выполнения скрипта
+2024-07-02 16:03:34 [INFO]: Заголовок: {{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}
+2024-07-02 16:05:00 [INFO]: Начало выполнения скрипта
+2024-07-02 16:05:00 [INFO]: Заголовок: {{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}
+2024-07-02 16:08:10 [INFO]: Начало выполнения скрипта
+2024-07-02 16:08:10 [INFO]: Заголовок: {{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}
+2024-07-02 16:09:58 [INFO]: Начало выполнения скрипта
+2024-07-02 16:09:58 [INFO]: Заголовок: {{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}
+2024-07-02 16:09:58 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:09:58 [INFO]: Всего открытых страниц: 2
+2024-07-02 16:09:58 [INFO]: Элемент ввода title найден
+2024-07-02 16:09:58 [ERROR]: Ошибка при выполнении скрипта Puppeteer: titleText is not defined
+2024-07-02 16:15:59 [INFO]: Начало выполнения скрипта
+2024-07-02 16:16:32 [INFO]: Начало выполнения скрипта
+2024-07-02 16:17:48 [INFO]: Начало выполнения скрипта
+2024-07-02 16:18:22 [INFO]: Начало выполнения скрипта
+2024-07-02 16:19:18 [INFO]: Начало выполнения скрипта
+2024-07-02 16:19:18 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:19:18 [INFO]: Всего открытых страниц: 3
+2024-07-02 16:19:18 [INFO]: Элемент ввода title найден
+2024-07-02 16:19:22 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'undefined' }) | raw }}" в поле title
+2024-07-02 16:19:23 [INFO]: Элемент ввода channel найден
+2024-07-02 16:19:23 [ERROR]: Ошибка при выполнении скрипта Puppeteer: Cannot read properties of undefined (reading 'trim')
+2024-07-02 16:20:00 [INFO]: Начало выполнения скрипта
+2024-07-02 16:20:00 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:20:00 [INFO]: Всего открытых страниц: 3
+2024-07-02 16:20:00 [INFO]: Элемент ввода title найден
+2024-07-02 16:20:02 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-02 16:20:03 [INFO]: Элемент ввода channel найден
+2024-07-02 16:20:03 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:20:03 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:20:03 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:20:03 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:20:03 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:20:03 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:20:03 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:20:03 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:20:04 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:20:04 [INFO]: Клик по второму checkbox
+2024-07-02 16:20:04 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:20:04 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-02 16:20:05 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:20:37 [INFO]: Начало выполнения скрипта
+2024-07-02 16:20:37 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:20:37 [INFO]: Всего открытых страниц: 3
+2024-07-02 16:20:37 [INFO]: Элемент ввода title найден
+2024-07-02 16:20:39 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-02 16:20:39 [INFO]: Элемент ввода channel найден
+2024-07-02 16:20:39 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:20:39 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:20:39 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:20:40 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:20:40 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:20:40 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:20:40 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:20:40 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:20:40 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:20:40 [INFO]: Клик по второму checkbox
+2024-07-02 16:20:40 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:20:40 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-02 16:20:41 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:22:43 [INFO]: Начало выполнения скрипта
+2024-07-02 16:22:43 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:22:43 [INFO]: Всего открытых страниц: 5
+2024-07-02 16:22:43 [INFO]: Элемент ввода title найден
+2024-07-02 16:22:45 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-02 16:22:46 [INFO]: Элемент ввода channel найден
+2024-07-02 16:22:46 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:22:46 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:22:46 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:22:46 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:22:46 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:22:46 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:22:46 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:22:46 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:22:47 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:22:47 [INFO]: Клик по второму checkbox
+2024-07-02 16:22:47 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:22:47 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-02 16:22:48 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:26:15 [INFO]: Начало выполнения скрипта
+2024-07-02 16:26:15 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:26:15 [INFO]: Всего открытых страниц: 5
+2024-07-02 16:26:15 [INFO]: Элемент ввода title найден
+2024-07-02 16:26:17 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-02 16:26:17 [INFO]: Элемент ввода channel найден
+2024-07-02 16:26:17 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:26:17 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:26:17 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:26:18 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:26:18 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:26:18 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:26:18 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:26:18 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:26:18 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:26:18 [INFO]: Клик по второму checkbox
+2024-07-02 16:26:18 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:26:18 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-02 16:26:19 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:27:28 [INFO]: Начало выполнения скрипта
+2024-07-02 16:27:28 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:27:28 [INFO]: Всего открытых страниц: 5
+2024-07-02 16:27:28 [INFO]: Элемент ввода title найден
+2024-07-02 16:27:30 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Double Bottom' }) | raw }}" в поле title
+2024-07-02 16:27:30 [INFO]: Элемент ввода channel найден
+2024-07-02 16:27:30 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:27:30 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:27:30 [INFO]: Введен текст "Double Bottom" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:27:31 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:27:31 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:27:31 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:27:31 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:27:31 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:27:31 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:27:31 [INFO]: Клик по второму checkbox
+2024-07-02 16:27:31 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:27:31 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-02 16:27:32 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:28:19 [INFO]: Начало выполнения скрипта
+2024-07-02 16:28:19 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:28:19 [INFO]: Всего открытых страниц: 5
+2024-07-02 16:28:19 [INFO]: Элемент ввода title найден
+2024-07-02 16:28:21 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Double Bottom' }) | raw }}" в поле title
+2024-07-02 16:28:22 [INFO]: Элемент ввода channel найден
+2024-07-02 16:28:22 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:28:22 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:28:22 [INFO]: Введен текст "Double Bottom" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:28:22 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:28:22 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:28:22 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:28:22 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:28:22 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:28:23 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:28:23 [INFO]: Клик по второму checkbox
+2024-07-02 16:28:23 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:28:23 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-02 16:28:24 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:29:42 [INFO]: Начало выполнения скрипта
+2024-07-02 16:29:42 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:29:42 [INFO]: Всего открытых страниц: 5
+2024-07-02 16:29:42 [INFO]: Элемент ввода title найден
+2024-07-02 16:29:44 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-02 16:29:45 [INFO]: Элемент ввода channel найден
+2024-07-02 16:29:45 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:29:45 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:29:45 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:29:45 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:29:45 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:29:45 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:29:45 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:29:45 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:29:46 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:29:46 [INFO]: Клик по второму checkbox
+2024-07-02 16:29:46 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:29:46 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-02 16:29:47 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 16:32:11 [INFO]: Начало выполнения скрипта
+2024-07-02 16:32:11 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 16:32:11 [INFO]: Всего открытых страниц: 5
+2024-07-02 16:32:11 [INFO]: Элемент ввода title найден
+2024-07-02 16:32:13 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}" в поле title
+2024-07-02 16:32:13 [INFO]: Элемент ввода channel найден
+2024-07-02 16:32:13 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-02 16:32:13 [INFO]: Элемент ввода educationPost найден
+2024-07-02 16:32:13 [INFO]: Введен текст "Flag" и нажата клавиша Enter в поле educationPost
+2024-07-02 16:32:14 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 16:32:14 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 16:32:14 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 16:32:14 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 16:32:14 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 16:32:14 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 16:32:14 [INFO]: Клик по второму checkbox
+2024-07-02 16:32:14 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 16:32:14 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-02 16:32:15 [INFO]: Скрипт Puppeteer завершен
+2024-07-02 17:15:24 [INFO]: Начало выполнения скрипта
+2024-07-02 17:15:25 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-02 17:15:25 [INFO]: Всего открытых страниц: 16
+2024-07-02 17:15:25 [INFO]: Элемент ввода title найден
+2024-07-02 17:15:27 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-02 17:15:27 [INFO]: Элемент ввода channel найден
+2024-07-02 17:15:27 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-02 17:15:27 [INFO]: Элемент ввода educationPost найден
+2024-07-02 17:15:27 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-02 17:15:27 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-02 17:15:27 [INFO]: Второй элемент ant-select-selector найден
+2024-07-02 17:15:27 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-02 17:15:28 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-02 17:15:28 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-02 17:15:28 [INFO]: Элементы ввода checkbox найдены
+2024-07-02 17:15:28 [INFO]: Клик по второму checkbox
+2024-07-02 17:15:28 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-02 17:15:28 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-02 17:15:29 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 12:54:16 [INFO]: Начало выполнения скрипта
+2024-07-03 12:54:16 [ERROR]: Ошибка при выполнении скрипта Puppeteer: Failed to fetch browser webSocket URL from http://127.0.0.1:9222/json/version: fetch failed
+2024-07-03 12:55:15 [INFO]: Начало выполнения скрипта
+2024-07-03 12:55:15 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 12:55:15 [INFO]: Всего открытых страниц: 7
+2024-07-03 12:55:15 [INFO]: Элемент ввода title найден
+2024-07-03 12:55:17 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-03 12:55:17 [INFO]: Элемент ввода channel найден
+2024-07-03 12:55:18 [INFO]: Введен текст "GBPJPY chart" и нажата клавиша Enter в поле channel
+2024-07-03 12:55:18 [INFO]: Элемент ввода educationPost найден
+2024-07-03 12:55:18 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-03 12:55:18 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 12:55:18 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 12:55:18 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 12:55:18 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 12:55:18 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 12:55:19 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 12:55:19 [INFO]: Клик по второму checkbox
+2024-07-03 12:55:19 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 12:55:19 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-03 12:55:20 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 13:00:53 [INFO]: Начало выполнения скрипта
+2024-07-03 13:00:53 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 13:00:53 [INFO]: Всего открытых страниц: 7
+2024-07-03 13:00:53 [INFO]: Элемент ввода title найден
+2024-07-03 13:00:55 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-03 13:00:55 [INFO]: Элемент ввода channel найден
+2024-07-03 13:00:56 [INFO]: Введен текст "EURUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 13:00:56 [INFO]: Элемент ввода educationPost найден
+2024-07-03 13:00:56 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-03 13:00:56 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 13:00:56 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 13:00:56 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 13:00:56 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 13:00:56 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-03 13:00:57 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 13:00:57 [INFO]: Клик по второму checkbox
+2024-07-03 13:00:57 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 13:00:57 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 13:00:58 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 13:07:37 [INFO]: Начало выполнения скрипта
+2024-07-03 13:07:38 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 13:07:38 [INFO]: Всего открытых страниц: 9
+2024-07-03 13:07:38 [INFO]: Элемент ввода title найден
+2024-07-03 13:07:40 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-03 13:07:40 [INFO]: Элемент ввода channel найден
+2024-07-03 13:07:40 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 13:07:40 [INFO]: Элемент ввода educationPost найден
+2024-07-03 13:07:40 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-03 13:07:41 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 13:07:41 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 13:07:41 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 13:07:41 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 13:07:41 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 13:07:41 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 13:07:41 [INFO]: Клик по второму checkbox
+2024-07-03 13:07:41 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 13:07:41 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 13:07:42 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 13:14:52 [INFO]: Начало выполнения скрипта
+2024-07-03 13:14:52 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 13:14:52 [INFO]: Всего открытых страниц: 12
+2024-07-03 13:14:52 [INFO]: Элемент ввода title найден
+2024-07-03 13:14:54 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-03 13:14:54 [INFO]: Элемент ввода channel найден
+2024-07-03 13:14:54 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 13:14:54 [INFO]: Элемент ввода educationPost найден
+2024-07-03 13:14:55 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-03 13:14:55 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 13:14:55 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 13:14:55 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 13:14:55 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 13:14:55 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-03 13:14:55 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 13:14:55 [INFO]: Клик по второму checkbox
+2024-07-03 13:14:56 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 13:14:56 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 13:14:57 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 13:15:30 [INFO]: Начало выполнения скрипта
+2024-07-03 13:15:30 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 13:15:30 [INFO]: Всего открытых страниц: 12
+2024-07-03 13:15:30 [INFO]: Элемент ввода title найден
+2024-07-03 13:15:32 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-03 13:15:32 [INFO]: Элемент ввода channel найден
+2024-07-03 13:15:32 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 13:15:32 [INFO]: Элемент ввода educationPost найден
+2024-07-03 13:15:32 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-03 13:15:33 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 13:15:33 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 13:15:33 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 13:15:33 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 13:15:33 [INFO]: Выбран элемент "15.0" в dealsAttribution_timeframe
+2024-07-03 13:15:33 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 13:15:33 [INFO]: Клик по второму checkbox
+2024-07-03 13:15:33 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 13:15:33 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 13:15:34 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 13:17:31 [INFO]: Начало выполнения скрипта
+2024-07-03 13:17:31 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 13:17:31 [INFO]: Всего открытых страниц: 12
+2024-07-03 13:17:31 [INFO]: Элемент ввода title найден
+2024-07-03 13:17:33 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-03 13:17:33 [INFO]: Элемент ввода channel найден
+2024-07-03 13:17:34 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 13:17:34 [INFO]: Элемент ввода educationPost найден
+2024-07-03 13:17:34 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-03 13:17:34 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 13:17:34 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 13:17:34 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 13:17:34 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 13:17:35 [INFO]: Выбран элемент "15.0" в dealsAttribution_timeframe
+2024-07-03 13:17:35 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 13:17:35 [INFO]: Клик по второму checkbox
+2024-07-03 13:17:35 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 13:17:35 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 13:17:36 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 14:58:28 [INFO]: Начало выполнения скрипта
+2024-07-03 14:58:42 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 14:58:42 [INFO]: Всего открытых страниц: 16
+2024-07-03 14:58:42 [INFO]: Элемент ввода title найден
+2024-07-03 14:58:42 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-03 14:58:43 [INFO]: Элемент ввода channel найден
+2024-07-03 14:58:43 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 14:58:43 [INFO]: Элемент ввода educationPost найден
+2024-07-03 14:58:43 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-03 14:58:43 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 14:58:43 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 14:58:43 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 14:58:43 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 14:58:43 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 14:58:44 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 14:58:44 [INFO]: Клик по второму checkbox
+2024-07-03 14:58:44 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 14:58:44 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-03 14:58:45 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 14:59:03 [INFO]: Начало выполнения скрипта
+2024-07-03 14:59:03 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 14:59:03 [INFO]: Всего открытых страниц: 14
+2024-07-03 14:59:03 [INFO]: Элемент ввода title найден
+2024-07-03 14:59:05 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-03 14:59:06 [INFO]: Элемент ввода channel найден
+2024-07-03 14:59:06 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 14:59:06 [INFO]: Элемент ввода educationPost найден
+2024-07-03 14:59:06 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-03 14:59:06 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 14:59:06 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 14:59:06 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 14:59:06 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 14:59:06 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 14:59:07 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 14:59:07 [INFO]: Клик по второму checkbox
+2024-07-03 14:59:07 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 14:59:07 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 14:59:08 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 15:04:44 [INFO]: Начало выполнения скрипта
+2024-07-03 15:04:44 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 15:04:44 [INFO]: Всего открытых страниц: 15
+2024-07-03 15:04:44 [INFO]: Элемент ввода title найден
+2024-07-03 15:04:46 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-03 15:04:46 [INFO]: Элемент ввода channel найден
+2024-07-03 15:04:46 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 15:04:46 [INFO]: Элемент ввода educationPost найден
+2024-07-03 15:04:46 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-03 15:04:47 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 15:04:47 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 15:04:47 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 15:04:47 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 15:04:47 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 15:04:47 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 15:04:47 [INFO]: Клик по второму checkbox
+2024-07-03 15:04:47 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 15:04:47 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 15:04:48 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 16:00:43 [INFO]: Начало выполнения скрипта
+2024-07-03 16:04:43 [INFO]: Начало выполнения скрипта
+2024-07-03 16:07:52 [INFO]: Начало выполнения скрипта
+2024-07-03 16:08:46 [INFO]: Начало выполнения скрипта
+2024-07-03 16:10:24 [INFO]: Начало выполнения скрипта
+2024-07-03 16:49:28 [INFO]: Начало выполнения скрипта
+2024-07-03 17:19:03 [INFO]: Начало выполнения скрипта
+2024-07-03 17:19:03 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 17:19:03 [INFO]: Всего открытых страниц: 4
+2024-07-03 17:19:03 [INFO]: Элемент ввода title найден
+2024-07-03 17:19:05 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-03 17:19:05 [INFO]: Элемент ввода channel найден
+2024-07-03 17:19:05 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-03 17:19:05 [INFO]: Элемент ввода educationPost найден
+2024-07-03 17:19:05 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-03 17:19:06 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 17:19:06 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 17:19:06 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 17:19:06 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 17:19:06 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 17:19:06 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 17:19:06 [INFO]: Клик по второму checkbox
+2024-07-03 17:19:06 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 17:19:06 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 17:19:07 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 17:24:41 [INFO]: Начало выполнения скрипта
+2024-07-03 17:24:41 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 17:24:41 [INFO]: Всего открытых страниц: 5
+2024-07-03 17:24:41 [INFO]: Элемент ввода title найден
+2024-07-03 17:24:43 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-03 17:24:43 [INFO]: Элемент ввода channel найден
+2024-07-03 17:24:43 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-03 17:24:43 [INFO]: Элемент ввода educationPost найден
+2024-07-03 17:24:43 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-03 17:24:44 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 17:24:44 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 17:24:44 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 17:24:44 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 17:24:44 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 17:24:44 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 17:24:44 [INFO]: Клик по второму checkbox
+2024-07-03 17:24:44 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 17:24:44 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 17:24:45 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 17:25:28 [INFO]: Начало выполнения скрипта
+2024-07-03 17:25:28 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 17:25:28 [INFO]: Всего открытых страниц: 5
+2024-07-03 17:25:28 [INFO]: Элемент ввода title найден
+2024-07-03 17:25:30 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-03 17:25:31 [INFO]: Элемент ввода channel найден
+2024-07-03 17:25:31 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-03 17:25:31 [INFO]: Элемент ввода educationPost найден
+2024-07-03 17:25:31 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-03 17:25:31 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 17:25:31 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 17:25:31 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 17:25:31 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 17:25:31 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 17:25:32 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 17:25:32 [INFO]: Клик по второму checkbox
+2024-07-03 17:25:32 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 17:25:32 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-03 17:25:33 [INFO]: Скрипт Puppeteer завершен
+2024-07-03 17:25:54 [INFO]: Начало выполнения скрипта
+2024-07-03 17:25:55 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-03 17:25:55 [INFO]: Всего открытых страниц: 5
+2024-07-03 17:25:55 [INFO]: Элемент ввода title найден
+2024-07-03 17:25:56 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-03 17:25:57 [INFO]: Элемент ввода channel найден
+2024-07-03 17:25:57 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-03 17:25:57 [INFO]: Элемент ввода educationPost найден
+2024-07-03 17:25:57 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-03 17:25:57 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-03 17:25:57 [INFO]: Второй элемент ant-select-selector найден
+2024-07-03 17:25:57 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-03 17:25:57 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-03 17:25:58 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-03 17:25:58 [INFO]: Элементы ввода checkbox найдены
+2024-07-03 17:25:58 [INFO]: Клик по второму checkbox
+2024-07-03 17:25:58 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-03 17:25:58 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-03 17:25:59 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 13:49:41 [INFO]: Начало выполнения скрипта
+2024-07-04 13:49:41 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 13:49:41 [INFO]: Всего открытых страниц: 16
+2024-07-04 13:49:41 [INFO]: Элемент ввода title найден
+2024-07-04 13:49:43 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-04 13:49:43 [INFO]: Элемент ввода channel найден
+2024-07-04 13:49:44 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-04 13:49:44 [INFO]: Элемент ввода educationPost найден
+2024-07-04 13:49:44 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-04 13:49:44 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 13:49:44 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 13:49:44 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 13:49:44 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 13:49:44 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 13:49:45 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 13:49:45 [INFO]: Клик по второму checkbox
+2024-07-04 13:49:45 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 13:49:45 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-04 13:49:46 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 14:05:43 [INFO]: Начало выполнения скрипта
+2024-07-04 14:05:43 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 14:05:43 [INFO]: Всего открытых страниц: 17
+2024-07-04 14:05:44 [INFO]: Элемент ввода title найден
+2024-07-04 14:05:46 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-04 14:05:46 [INFO]: Элемент ввода channel найден
+2024-07-04 14:05:46 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-04 14:05:46 [INFO]: Элемент ввода educationPost найден
+2024-07-04 14:05:46 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-04 14:05:47 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 14:05:47 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 14:05:47 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 14:05:47 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 14:05:47 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 14:05:47 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 14:05:47 [INFO]: Клик по второму checkbox
+2024-07-04 14:05:47 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 14:05:47 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-04 14:05:48 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 14:07:34 [INFO]: Начало выполнения скрипта
+2024-07-04 14:07:34 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 14:07:34 [INFO]: Всего открытых страниц: 17
+2024-07-04 14:07:34 [INFO]: Элемент ввода title найден
+2024-07-04 14:07:36 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-04 14:07:37 [INFO]: Элемент ввода channel найден
+2024-07-04 14:07:37 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-04 14:07:37 [INFO]: Элемент ввода educationPost найден
+2024-07-04 14:07:37 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-04 14:07:37 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 14:07:37 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 14:07:37 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 14:07:38 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 14:07:38 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 14:07:38 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 14:07:38 [INFO]: Клик по второму checkbox
+2024-07-04 14:07:38 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 14:07:38 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-04 14:07:39 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 14:09:09 [INFO]: Начало выполнения скрипта
+2024-07-04 14:09:09 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 14:09:09 [INFO]: Всего открытых страниц: 18
+2024-07-04 14:09:09 [INFO]: Элемент ввода title найден
+2024-07-04 14:09:11 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-04 14:09:12 [INFO]: Элемент ввода channel найден
+2024-07-04 14:09:12 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-04 14:09:12 [INFO]: Элемент ввода educationPost найден
+2024-07-04 14:09:12 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-04 14:09:12 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 14:09:12 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 14:09:12 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 14:09:12 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 14:09:12 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 14:09:13 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 14:09:13 [INFO]: Клик по второму checkbox
+2024-07-04 14:09:13 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 14:09:13 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-04 14:09:14 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 14:59:26 [INFO]: Начало выполнения скрипта
+2024-07-04 14:59:26 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 14:59:26 [INFO]: Всего открытых страниц: 19
+2024-07-04 14:59:26 [INFO]: Элемент ввода title найден
+2024-07-04 14:59:28 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-04 14:59:28 [INFO]: Элемент ввода channel найден
+2024-07-04 14:59:28 [INFO]: Введен текст "GBPJPY chart" и нажата клавиша Enter в поле channel
+2024-07-04 14:59:29 [INFO]: Элемент ввода educationPost найден
+2024-07-04 14:59:29 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-04 14:59:29 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 14:59:29 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 14:59:29 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 14:59:29 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 14:59:29 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 14:59:29 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 14:59:29 [INFO]: Клик по второму checkbox
+2024-07-04 14:59:30 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 14:59:30 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-04 14:59:31 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 15:04:16 [INFO]: Начало выполнения скрипта
+2024-07-04 15:04:16 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 15:04:16 [INFO]: Всего открытых страниц: 18
+2024-07-04 15:04:16 [INFO]: Элемент ввода title найден
+2024-07-04 15:04:18 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-04 15:04:18 [INFO]: Элемент ввода channel найден
+2024-07-04 15:04:18 [INFO]: Введен текст "AUDUSD chart" и нажата клавиша Enter в поле channel
+2024-07-04 15:04:18 [INFO]: Элемент ввода educationPost найден
+2024-07-04 15:04:18 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-04 15:04:19 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 15:04:19 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 15:04:19 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 15:04:19 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 15:04:19 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 15:04:19 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 15:04:19 [INFO]: Клик по второму checkbox
+2024-07-04 15:04:19 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 15:04:19 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-04 15:04:20 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 15:04:44 [INFO]: Начало выполнения скрипта
+2024-07-04 15:04:44 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 15:04:44 [INFO]: Всего открытых страниц: 18
+2024-07-04 15:04:44 [INFO]: Элемент ввода title найден
+2024-07-04 15:04:46 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-04 15:04:46 [INFO]: Элемент ввода channel найден
+2024-07-04 15:04:46 [INFO]: Введен текст "AUDUSD chart" и нажата клавиша Enter в поле channel
+2024-07-04 15:04:46 [INFO]: Элемент ввода educationPost найден
+2024-07-04 15:04:46 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-04 15:04:46 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 15:04:46 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 15:04:46 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 15:04:47 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 15:04:47 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 15:04:47 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 15:04:47 [INFO]: Клик по второму checkbox
+2024-07-04 15:04:47 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 15:04:47 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-04 15:04:48 [INFO]: Скрипт Puppeteer завершен
+2024-07-04 16:49:19 [INFO]: Начало выполнения скрипта
+2024-07-04 16:49:19 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-04 16:49:19 [INFO]: Всего открытых страниц: 12
+2024-07-04 16:49:19 [INFO]: Элемент ввода title найден
+2024-07-04 16:49:21 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-04 16:49:21 [INFO]: Элемент ввода channel найден
+2024-07-04 16:49:21 [INFO]: Введен текст "EURUSD chart" и нажата клавиша Enter в поле channel
+2024-07-04 16:49:21 [INFO]: Элемент ввода educationPost найден
+2024-07-04 16:49:21 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-04 16:49:22 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-04 16:49:22 [INFO]: Второй элемент ant-select-selector найден
+2024-07-04 16:49:22 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-04 16:49:22 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-04 16:49:22 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-04 16:49:22 [INFO]: Элементы ввода checkbox найдены
+2024-07-04 16:49:22 [INFO]: Клик по второму checkbox
+2024-07-04 16:49:22 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-04 16:49:22 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-04 16:49:23 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:20:29 [INFO]: Начало выполнения скрипта
+2024-07-05 15:21:16 [INFO]: Начало выполнения скрипта
+2024-07-05 15:21:53 [ERROR]: Ошибка при выполнении скрипта Puppeteer: Requesting main frame too early!
+2024-07-05 15:22:15 [INFO]: Начало выполнения скрипта
+2024-07-05 15:22:15 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:22:15 [INFO]: Всего открытых страниц: 2
+2024-07-05 15:22:15 [INFO]: Элемент ввода title найден
+2024-07-05 15:22:17 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-05 15:22:17 [INFO]: Элемент ввода channel найден
+2024-07-05 15:22:17 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:22:18 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:22:18 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:22:18 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:22:18 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:22:18 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:22:18 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:22:18 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 15:22:18 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:22:18 [INFO]: Клик по второму checkbox
+2024-07-05 15:22:19 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:22:19 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 15:22:20 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:26:50 [INFO]: Начало выполнения скрипта
+2024-07-05 15:26:50 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:26:50 [INFO]: Всего открытых страниц: 4
+2024-07-05 15:26:50 [INFO]: Элемент ввода title найден
+2024-07-05 15:26:52 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}" в поле title
+2024-07-05 15:26:52 [INFO]: Элемент ввода channel найден
+2024-07-05 15:26:52 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:26:52 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:26:52 [INFO]: Введен текст "Flag" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:26:53 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:26:53 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:26:53 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:26:53 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:26:53 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 15:26:53 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:26:53 [INFO]: Клик по второму checkbox
+2024-07-05 15:26:53 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:26:53 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 15:26:54 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:27:04 [INFO]: Начало выполнения скрипта
+2024-07-05 15:27:04 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:27:04 [INFO]: Всего открытых страниц: 4
+2024-07-05 15:27:04 [INFO]: Элемент ввода title найден
+2024-07-05 15:27:06 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}" в поле title
+2024-07-05 15:27:06 [INFO]: Элемент ввода channel найден
+2024-07-05 15:27:06 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:27:06 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:27:06 [INFO]: Введен текст "Flag" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:27:07 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:27:07 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:27:07 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:27:07 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:27:07 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 15:27:07 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:27:07 [INFO]: Клик по второму checkbox
+2024-07-05 15:27:07 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:27:07 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 15:27:08 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:38:12 [INFO]: Начало выполнения скрипта
+2024-07-05 15:38:12 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:38:12 [INFO]: Всего открытых страниц: 8
+2024-07-05 15:38:12 [INFO]: Элемент ввода title найден
+2024-07-05 15:38:14 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-05 15:38:14 [INFO]: Элемент ввода channel найден
+2024-07-05 15:38:14 [INFO]: Введен текст "EURUSD chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:38:15 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:38:15 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:38:15 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:38:15 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:38:15 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:38:15 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:38:16 [INFO]: Выбран элемент "15.0" в dealsAttribution_timeframe
+2024-07-05 15:38:16 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:38:16 [INFO]: Клик по второму checkbox
+2024-07-05 15:38:16 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:38:16 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-05 15:38:17 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:43:47 [INFO]: Начало выполнения скрипта
+2024-07-05 15:43:47 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:43:47 [INFO]: Всего открытых страниц: 9
+2024-07-05 15:43:47 [INFO]: Элемент ввода title найден
+2024-07-05 15:43:49 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-05 15:43:49 [INFO]: Элемент ввода channel найден
+2024-07-05 15:43:49 [INFO]: Введен текст "EURUSD chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:43:50 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:43:50 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:43:50 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:43:50 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:43:50 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:43:50 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:43:51 [INFO]: Выбран элемент "15.0" в dealsAttribution_timeframe
+2024-07-05 15:43:51 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:43:51 [INFO]: Клик по второму checkbox
+2024-07-05 15:43:51 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:43:51 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-05 15:43:52 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:48:08 [INFO]: Начало выполнения скрипта
+2024-07-05 15:48:08 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:48:08 [INFO]: Всего открытых страниц: 9
+2024-07-05 15:48:08 [INFO]: Элемент ввода title найден
+2024-07-05 15:48:10 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}" в поле title
+2024-07-05 15:48:10 [INFO]: Элемент ввода channel найден
+2024-07-05 15:48:10 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:48:10 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:48:10 [INFO]: Введен текст "Flag" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:48:10 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:48:10 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:48:10 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:48:11 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:48:11 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 15:48:11 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:48:11 [INFO]: Клик по второму checkbox
+2024-07-05 15:48:11 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:48:11 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 15:48:12 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:56:31 [INFO]: Начало выполнения скрипта
+2024-07-05 15:56:31 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:56:31 [INFO]: Всего открытых страниц: 11
+2024-07-05 15:56:31 [INFO]: Элемент ввода title найден
+2024-07-05 15:56:33 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-05 15:56:33 [INFO]: Элемент ввода channel найден
+2024-07-05 15:56:33 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:56:33 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:56:33 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:56:33 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:56:33 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:56:33 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:56:34 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:56:34 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 15:56:34 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:56:34 [INFO]: Клик по второму checkbox
+2024-07-05 15:56:34 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:56:34 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 15:56:35 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:56:44 [INFO]: Начало выполнения скрипта
+2024-07-05 15:56:44 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:56:44 [INFO]: Всего открытых страниц: 11
+2024-07-05 15:56:44 [INFO]: Элемент ввода title найден
+2024-07-05 15:56:46 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-05 15:56:46 [INFO]: Элемент ввода channel найден
+2024-07-05 15:56:46 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:56:47 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:56:47 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:56:47 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:56:47 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:56:47 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:56:47 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:56:47 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 15:56:47 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:56:47 [INFO]: Клик по второму checkbox
+2024-07-05 15:56:48 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:56:48 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 15:56:49 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 15:59:05 [INFO]: Начало выполнения скрипта
+2024-07-05 15:59:05 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 15:59:05 [INFO]: Всего открытых страниц: 12
+2024-07-05 15:59:05 [INFO]: Элемент ввода title найден
+2024-07-05 15:59:06 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-05 15:59:07 [INFO]: Элемент ввода channel найден
+2024-07-05 15:59:07 [INFO]: Введен текст "AUDUSD chart" и нажата клавиша Enter в поле channel
+2024-07-05 15:59:07 [INFO]: Элемент ввода educationPost найден
+2024-07-05 15:59:07 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-05 15:59:07 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 15:59:07 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 15:59:07 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 15:59:07 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 15:59:07 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 15:59:08 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 15:59:08 [INFO]: Клик по второму checkbox
+2024-07-05 15:59:08 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 15:59:08 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 15:59:09 [INFO]: Скрипт Puppeteer завершен
+2024-07-05 16:03:51 [INFO]: Начало выполнения скрипта
+2024-07-05 16:03:52 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-05 16:03:52 [INFO]: Всего открытых страниц: 15
+2024-07-05 16:03:52 [INFO]: Элемент ввода title найден
+2024-07-05 16:03:53 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-05 16:03:54 [INFO]: Элемент ввода channel найден
+2024-07-05 16:03:54 [INFO]: Введен текст "GBPJPY chart" и нажата клавиша Enter в поле channel
+2024-07-05 16:03:54 [INFO]: Элемент ввода educationPost найден
+2024-07-05 16:03:54 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-05 16:03:54 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-05 16:03:54 [INFO]: Второй элемент ant-select-selector найден
+2024-07-05 16:03:54 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-05 16:03:54 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-05 16:03:55 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-05 16:03:55 [INFO]: Элементы ввода checkbox найдены
+2024-07-05 16:03:55 [INFO]: Клик по второму checkbox
+2024-07-05 16:03:55 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-05 16:03:55 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-05 16:03:56 [INFO]: Скрипт Puppeteer завершен
+2024-07-08 13:11:36 [INFO]: Начало выполнения скрипта
+2024-07-08 13:12:49 [INFO]: Начало выполнения скрипта
+2024-07-08 13:13:11 [INFO]: Начало выполнения скрипта
+2024-07-08 13:14:11 [INFO]: Начало выполнения скрипта
+2024-07-08 13:14:41 [INFO]: Начало выполнения скрипта
+2024-07-08 13:15:02 [INFO]: Начало выполнения скрипта
+2024-07-08 13:16:14 [INFO]: Начало выполнения скрипта
+2024-07-08 14:44:25 [INFO]: Начало выполнения скрипта
+2024-07-08 14:44:25 [ERROR]: Не удалось найти вкладку с нужным URL.
+2024-07-08 14:52:29 [INFO]: Начало выполнения скрипта
+2024-07-08 14:52:29 [ERROR]: Ошибка при выполнении скрипта Puppeteer: Failed to fetch browser webSocket URL from http://127.0.0.1:9222/json/version: fetch failed
+2024-07-08 15:57:42 [INFO]: Начало выполнения скрипта
+2024-07-08 15:57:42 [ERROR]: Ошибка при выполнении скрипта Puppeteer: Failed to fetch browser webSocket URL from http://127.0.0.1:9222/json/version: fetch failed
+2024-07-08 15:58:12 [INFO]: Начало выполнения скрипта
+2024-07-08 15:58:12 [ERROR]: Ошибка при выполнении скрипта Puppeteer: Failed to fetch browser webSocket URL from http://127.0.0.1:9222/json/version: fetch failed
+2024-07-08 15:59:43 [INFO]: Начало выполнения скрипта
+2024-07-08 15:59:43 [ERROR]: Не удалось найти вкладку с нужным URL.
+2024-07-08 16:02:33 [INFO]: Начало выполнения скрипта
+2024-07-08 16:02:33 [ERROR]: Не удалось найти вкладку с нужным URL.
+2024-07-08 16:05:16 [INFO]: Начало выполнения скрипта
+2024-07-08 16:05:16 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-08 16:05:16 [INFO]: Всего открытых страниц: 3
+2024-07-08 16:05:16 [INFO]: Элемент ввода title найден
+2024-07-08 16:05:17 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}" в поле title
+2024-07-08 16:05:18 [INFO]: Элемент ввода channel найден
+2024-07-08 16:05:18 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-08 16:05:18 [INFO]: Элемент ввода educationPost найден
+2024-07-08 16:05:18 [INFO]: Введен текст "Flag" и нажата клавиша Enter в поле educationPost
+2024-07-08 16:05:18 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-08 16:05:18 [INFO]: Второй элемент ant-select-selector найден
+2024-07-08 16:05:18 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-08 16:05:18 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-08 16:05:19 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-08 16:05:19 [INFO]: Элементы ввода checkbox найдены
+2024-07-08 16:05:19 [INFO]: Клик по второму checkbox
+2024-07-08 16:05:19 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-08 16:05:19 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-08 16:05:20 [INFO]: Скрипт Puppeteer завершен
+2024-07-08 16:15:37 [INFO]: Начало выполнения скрипта
+2024-07-08 16:15:37 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-08 16:15:37 [INFO]: Всего открытых страниц: 5
+2024-07-08 16:15:37 [INFO]: Элемент ввода title найден
+2024-07-08 16:15:39 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-08 16:15:39 [INFO]: Элемент ввода channel найден
+2024-07-08 16:15:39 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-08 16:15:39 [INFO]: Элемент ввода educationPost найден
+2024-07-08 16:15:40 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-08 16:15:40 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-08 16:15:40 [INFO]: Второй элемент ant-select-selector найден
+2024-07-08 16:15:40 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-08 16:15:40 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-08 16:15:40 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-08 16:15:40 [INFO]: Элементы ввода checkbox найдены
+2024-07-08 16:15:40 [INFO]: Клик по второму checkbox
+2024-07-08 16:15:40 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-08 16:15:41 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-08 16:15:42 [INFO]: Скрипт Puppeteer завершен
+2024-07-08 16:49:49 [INFO]: Начало выполнения скрипта
+2024-07-08 16:49:49 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-08 16:49:49 [INFO]: Всего открытых страниц: 13
+2024-07-08 16:49:49 [INFO]: Элемент ввода title найден
+2024-07-08 16:49:51 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-08 16:49:51 [INFO]: Элемент ввода channel найден
+2024-07-08 16:49:51 [INFO]: Введен текст "GBPJPY chart" и нажата клавиша Enter в поле channel
+2024-07-08 16:49:52 [INFO]: Элемент ввода educationPost найден
+2024-07-08 16:49:52 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-08 16:49:52 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-08 16:49:52 [INFO]: Второй элемент ant-select-selector найден
+2024-07-08 16:49:52 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-08 16:49:52 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-08 16:49:52 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-08 16:49:52 [INFO]: Элементы ввода checkbox найдены
+2024-07-08 16:49:52 [INFO]: Клик по второму checkbox
+2024-07-08 16:49:53 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-08 16:49:53 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-08 16:49:54 [INFO]: Скрипт Puppeteer завершен
+2024-07-08 16:53:18 [INFO]: Начало выполнения скрипта
+2024-07-08 16:53:19 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-08 16:53:19 [INFO]: Всего открытых страниц: 14
+2024-07-08 16:53:19 [INFO]: Элемент ввода title найден
+2024-07-08 16:53:21 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-08 16:53:21 [INFO]: Элемент ввода channel найден
+2024-07-08 16:53:21 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-08 16:53:21 [INFO]: Элемент ввода educationPost найден
+2024-07-08 16:53:21 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-08 16:53:21 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-08 16:53:21 [INFO]: Второй элемент ant-select-selector найден
+2024-07-08 16:53:21 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-08 16:53:22 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-08 16:53:22 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-08 16:53:22 [INFO]: Элементы ввода checkbox найдены
+2024-07-08 16:53:22 [INFO]: Клик по второму checkbox
+2024-07-08 16:53:22 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-08 16:53:22 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-08 16:53:23 [INFO]: Скрипт Puppeteer завершен
+2024-07-08 17:46:34 [INFO]: Начало выполнения скрипта
+2024-07-08 18:26:17 [INFO]: Начало выполнения скрипта
+2024-07-08 18:29:05 [INFO]: Начало выполнения скрипта
+2024-07-08 18:29:05 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-08 18:29:05 [INFO]: Всего открытых страниц: 2
+2024-07-08 18:29:05 [INFO]: Элемент ввода title найден
+2024-07-08 18:29:07 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-08 18:29:07 [INFO]: Элемент ввода channel найден
+2024-07-08 18:29:07 [INFO]: Введен текст "AUDUSD chart" и нажата клавиша Enter в поле channel
+2024-07-08 18:29:08 [INFO]: Элемент ввода educationPost найден
+2024-07-08 18:29:08 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-08 18:29:08 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-08 18:29:08 [INFO]: Второй элемент ant-select-selector найден
+2024-07-08 18:29:08 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-08 18:29:08 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-08 18:29:08 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-08 18:29:09 [INFO]: Элементы ввода checkbox найдены
+2024-07-08 18:29:09 [INFO]: Клик по второму checkbox
+2024-07-08 18:29:09 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-08 18:29:09 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-08 18:29:10 [INFO]: Скрипт Puppeteer завершен
+2024-07-08 18:31:10 [INFO]: Начало выполнения скрипта
+2024-07-08 18:31:10 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-08 18:31:10 [INFO]: Всего открытых страниц: 4
+2024-07-08 18:31:10 [INFO]: Элемент ввода title найден
+2024-07-08 18:31:12 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-08 18:31:12 [INFO]: Элемент ввода channel найден
+2024-07-08 18:31:12 [INFO]: Введен текст "AUDUSD chart" и нажата клавиша Enter в поле channel
+2024-07-08 18:31:13 [INFO]: Элемент ввода educationPost найден
+2024-07-08 18:31:13 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-08 18:31:13 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-08 18:31:13 [INFO]: Второй элемент ant-select-selector найден
+2024-07-08 18:31:13 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-08 18:31:13 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-08 18:31:13 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-08 18:31:13 [INFO]: Элементы ввода checkbox найдены
+2024-07-08 18:31:14 [INFO]: Клик по второму checkbox
+2024-07-08 18:31:14 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-08 18:31:14 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-08 18:31:15 [INFO]: Скрипт Puppeteer завершен
+2024-07-08 18:31:38 [INFO]: Начало выполнения скрипта
+2024-07-08 18:31:38 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-08 18:31:38 [INFO]: Всего открытых страниц: 5
+2024-07-08 18:31:38 [INFO]: Элемент ввода title найден
+2024-07-08 18:31:42 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-08 18:31:42 [INFO]: Элемент ввода channel найден
+2024-07-08 18:31:42 [INFO]: Введен текст "AUDUSD chart" и нажата клавиша Enter в поле channel
+2024-07-08 18:31:42 [INFO]: Элемент ввода educationPost найден
+2024-07-08 18:31:42 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-08 18:31:43 [INFO]: Найдено элементов ant-select-selection-search input: 9
+2024-07-08 18:31:43 [INFO]: Второй элемент ant-select-selector найден
+2024-07-08 18:31:43 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-08 18:31:43 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-08 18:31:43 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-08 18:31:43 [INFO]: Элементы ввода checkbox найдены
+2024-07-08 18:31:43 [INFO]: Клик по второму checkbox
+2024-07-08 18:31:49 [ERROR]: Ошибка при выполнении скрипта Puppeteer: Waiting for selector `#tradingCondition_direction` failed: Protocol error (Runtime.callFunctionOn): Target closed
+2024-07-09 14:25:28 [INFO]: Начало выполнения скрипта
+2024-07-09 14:26:18 [INFO]: Начало выполнения скрипта
+2024-07-09 14:26:18 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:26:18 [INFO]: Всего открытых страниц: 2
+2024-07-09 14:26:18 [INFO]: Элемент ввода title найден
+2024-07-09 14:26:20 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-09 14:26:21 [INFO]: Элемент ввода channel найден
+2024-07-09 14:26:21 [INFO]: Введен текст "EURUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:26:21 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:26:21 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:26:21 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:26:21 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:26:21 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:26:21 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:26:21 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 14:26:22 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:26:22 [INFO]: Клик по второму checkbox
+2024-07-09 14:26:22 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:26:22 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 14:26:23 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:29:13 [INFO]: Начало выполнения скрипта
+2024-07-09 14:29:13 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:29:13 [INFO]: Всего открытых страниц: 4
+2024-07-09 14:29:13 [INFO]: Элемент ввода title найден
+2024-07-09 14:29:15 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-09 14:29:15 [INFO]: Элемент ввода channel найден
+2024-07-09 14:29:15 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:29:16 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:29:16 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:29:16 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:29:16 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:29:16 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:29:16 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:29:16 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 14:29:16 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:29:16 [INFO]: Клик по второму checkbox
+2024-07-09 14:29:17 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:29:17 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 14:29:18 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:29:32 [INFO]: Начало выполнения скрипта
+2024-07-09 14:29:32 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:29:32 [INFO]: Всего открытых страниц: 5
+2024-07-09 14:29:32 [INFO]: Элемент ввода title найден
+2024-07-09 14:29:34 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-09 14:29:34 [INFO]: Элемент ввода channel найден
+2024-07-09 14:29:34 [INFO]: Введен текст "USDJPY chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:29:34 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:29:34 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:29:35 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:29:35 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:29:35 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:29:35 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:29:35 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 14:29:35 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:29:35 [INFO]: Клик по второму checkbox
+2024-07-09 14:29:35 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:29:35 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 14:29:36 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:33:21 [INFO]: Начало выполнения скрипта
+2024-07-09 14:33:21 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:33:21 [INFO]: Всего открытых страниц: 5
+2024-07-09 14:33:21 [INFO]: Элемент ввода title найден
+2024-07-09 14:33:23 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-09 14:33:23 [INFO]: Элемент ввода channel найден
+2024-07-09 14:33:23 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:33:23 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:33:23 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:33:23 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:33:23 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:33:23 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:33:24 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:33:24 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-09 14:33:24 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:33:24 [INFO]: Клик по второму checkbox
+2024-07-09 14:33:24 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:33:24 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 14:33:25 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:33:35 [INFO]: Начало выполнения скрипта
+2024-07-09 14:33:35 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:33:35 [INFO]: Всего открытых страниц: 5
+2024-07-09 14:33:35 [INFO]: Элемент ввода title найден
+2024-07-09 14:33:37 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-09 14:33:37 [INFO]: Элемент ввода channel найден
+2024-07-09 14:33:38 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:33:38 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:33:38 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:33:38 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:33:38 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:33:38 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:33:38 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:33:38 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-09 14:33:39 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:33:39 [INFO]: Клик по второму checkbox
+2024-07-09 14:33:39 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:33:39 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 14:33:40 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:36:16 [INFO]: Начало выполнения скрипта
+2024-07-09 14:36:16 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:36:16 [INFO]: Всего открытых страниц: 6
+2024-07-09 14:36:16 [INFO]: Элемент ввода title найден
+2024-07-09 14:36:19 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Double Top' }) | raw }}" в поле title
+2024-07-09 14:36:19 [INFO]: Элемент ввода channel найден
+2024-07-09 14:36:19 [INFO]: Введен текст "GBPJPY chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:36:19 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:36:19 [INFO]: Введен текст "Double Top" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:36:19 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:36:19 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:36:19 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:36:20 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:36:20 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 14:36:20 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:36:20 [INFO]: Клик по второму checkbox
+2024-07-09 14:36:20 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:36:20 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-09 14:36:21 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:41:49 [INFO]: Начало выполнения скрипта
+2024-07-09 14:41:49 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:41:49 [INFO]: Всего открытых страниц: 8
+2024-07-09 14:41:49 [INFO]: Элемент ввода title найден
+2024-07-09 14:41:51 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Rectangle' }) | raw }}" в поле title
+2024-07-09 14:41:51 [INFO]: Элемент ввода channel найден
+2024-07-09 14:41:51 [INFO]: Введен текст "XAUUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:41:51 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:41:51 [INFO]: Введен текст "Rectangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:41:52 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:41:52 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:41:52 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:41:52 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:41:52 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-09 14:41:52 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:41:52 [INFO]: Клик по второму checkbox
+2024-07-09 14:41:52 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:41:53 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 14:41:54 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:45:04 [INFO]: Начало выполнения скрипта
+2024-07-09 14:45:04 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:45:04 [INFO]: Всего открытых страниц: 9
+2024-07-09 14:45:04 [INFO]: Элемент ввода title найден
+2024-07-09 14:45:06 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-09 14:45:06 [INFO]: Элемент ввода channel найден
+2024-07-09 14:45:06 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:45:07 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:45:07 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:45:07 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:45:07 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:45:07 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:45:07 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:45:07 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-09 14:45:08 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:45:08 [INFO]: Клик по второму checkbox
+2024-07-09 14:45:08 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:45:08 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 14:45:09 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:46:51 [INFO]: Начало выполнения скрипта
+2024-07-09 14:46:51 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:46:51 [INFO]: Всего открытых страниц: 10
+2024-07-09 14:46:51 [INFO]: Элемент ввода title найден
+2024-07-09 14:46:53 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-09 14:46:54 [INFO]: Элемент ввода channel найден
+2024-07-09 14:46:54 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:46:54 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:46:54 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:46:54 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:46:54 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:46:54 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:46:54 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:46:55 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-09 14:46:55 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:46:55 [INFO]: Клик по второму checkbox
+2024-07-09 14:46:55 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:46:55 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-09 14:46:56 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 14:47:11 [INFO]: Начало выполнения скрипта
+2024-07-09 14:47:11 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 14:47:11 [INFO]: Всего открытых страниц: 10
+2024-07-09 14:47:11 [INFO]: Элемент ввода title найден
+2024-07-09 14:47:13 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-09 14:47:13 [INFO]: Элемент ввода channel найден
+2024-07-09 14:47:13 [INFO]: Введен текст "BTCUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 14:47:13 [INFO]: Элемент ввода educationPost найден
+2024-07-09 14:47:13 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 14:47:14 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 14:47:14 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 14:47:14 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 14:47:14 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 14:47:14 [INFO]: Выбран элемент "5.0" в dealsAttribution_timeframe
+2024-07-09 14:47:14 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 14:47:14 [INFO]: Клик по второму checkbox
+2024-07-09 14:47:14 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 14:47:15 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-09 14:47:16 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 17:30:45 [INFO]: Начало выполнения скрипта
+2024-07-09 17:30:46 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 17:30:46 [INFO]: Всего открытых страниц: 5
+2024-07-09 17:30:46 [INFO]: Элемент ввода title найден
+2024-07-09 17:30:48 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Pennant' }) | raw }}" в поле title
+2024-07-09 17:30:48 [INFO]: Элемент ввода channel найден
+2024-07-09 17:30:48 [INFO]: Введен текст "XAUUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 17:30:48 [INFO]: Элемент ввода educationPost найден
+2024-07-09 17:30:48 [INFO]: Введен текст "Pennant" и нажата клавиша Enter в поле educationPost
+2024-07-09 17:30:48 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 17:30:48 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 17:30:49 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 17:30:49 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 17:30:49 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 17:30:49 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 17:30:49 [INFO]: Клик по второму checkbox
+2024-07-09 17:30:49 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 17:30:49 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-09 17:30:50 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 17:34:18 [INFO]: Начало выполнения скрипта
+2024-07-09 17:34:18 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 17:34:18 [INFO]: Всего открытых страниц: 6
+2024-07-09 17:34:18 [INFO]: Элемент ввода title найден
+2024-07-09 17:34:20 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-09 17:34:20 [INFO]: Элемент ввода channel найден
+2024-07-09 17:34:20 [INFO]: Введен текст "GBPUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 17:34:20 [INFO]: Элемент ввода educationPost найден
+2024-07-09 17:34:20 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-09 17:34:20 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 17:34:20 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 17:34:21 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 17:34:21 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 17:34:21 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 17:34:21 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 17:34:21 [INFO]: Клик по второму checkbox
+2024-07-09 17:34:21 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 17:34:21 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 17:34:22 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 17:43:46 [INFO]: Начало выполнения скрипта
+2024-07-09 17:43:46 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 17:43:46 [INFO]: Всего открытых страниц: 8
+2024-07-09 17:43:46 [INFO]: Элемент ввода title найден
+2024-07-09 17:43:48 [INFO]: Введен текст "{{ 'space_figures_title_formed_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Triangle' }) | raw }}" в поле title
+2024-07-09 17:43:48 [INFO]: Элемент ввода channel найден
+2024-07-09 17:43:48 [INFO]: Введен текст "EURUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 17:43:48 [INFO]: Элемент ввода educationPost найден
+2024-07-09 17:43:48 [INFO]: Введен текст "Triangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 17:43:49 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 17:43:49 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 17:43:49 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 17:43:49 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 17:43:49 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 17:43:49 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 17:43:49 [INFO]: Клик по второму checkbox
+2024-07-09 17:43:49 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 17:43:49 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-09 17:43:50 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 17:46:17 [INFO]: Начало выполнения скрипта
+2024-07-09 17:46:17 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 17:46:17 [INFO]: Всего открытых страниц: 10
+2024-07-09 17:46:17 [INFO]: Элемент ввода title найден
+2024-07-09 17:46:19 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Wedge' }) | raw }}" в поле title
+2024-07-09 17:46:19 [INFO]: Элемент ввода channel найден
+2024-07-09 17:46:19 [INFO]: Введен текст "USDCAD chart" и нажата клавиша Enter в поле channel
+2024-07-09 17:46:19 [INFO]: Элемент ввода educationPost найден
+2024-07-09 17:46:19 [INFO]: Введен текст "Wedge" и нажата клавиша Enter в поле educationPost
+2024-07-09 17:46:19 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 17:46:19 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 17:46:19 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 17:46:20 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 17:46:20 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 17:46:20 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 17:46:20 [INFO]: Клик по второму checkbox
+2024-07-09 17:46:20 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 17:46:20 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 17:46:21 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 18:00:33 [INFO]: Начало выполнения скрипта
+2024-07-09 18:00:34 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 18:00:34 [INFO]: Всего открытых страниц: 16
+2024-07-09 18:00:34 [INFO]: Элемент ввода title найден
+2024-07-09 18:00:38 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bearish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Rectangle' }) | raw }}" в поле title
+2024-07-09 18:00:38 [INFO]: Элемент ввода channel найден
+2024-07-09 18:00:38 [INFO]: Введен текст "GBPJPY chart" и нажата клавиша Enter в поле channel
+2024-07-09 18:00:38 [INFO]: Элемент ввода educationPost найден
+2024-07-09 18:00:38 [INFO]: Введен текст "Rectangle" и нажата клавиша Enter в поле educationPost
+2024-07-09 18:00:39 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 18:00:39 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 18:00:39 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 18:00:39 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 18:00:45 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 18:00:45 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 18:00:45 [INFO]: Клик по второму checkbox
+2024-07-09 18:00:45 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 18:00:45 [INFO]: Введено значение "sell" в поле tradingCondition_direction
+2024-07-09 18:00:46 [INFO]: Скрипт Puppeteer завершен
+2024-07-09 19:52:11 [INFO]: Начало выполнения скрипта
+2024-07-09 19:52:12 [INFO]: Используем страницу с URL: https://cp.octafeed.com/panel/overview-posts/create
+2024-07-09 19:52:12 [INFO]: Всего открытых страниц: 10
+2024-07-09 19:52:12 [INFO]: Элемент ввода title найден
+2024-07-09 19:52:13 [INFO]: Введен текст "{{ 'space_patterns_title_formed_bullish_pattern' | trans ({ '[symbol]': symbol, '[pattern]': 'Flag' }) | raw }}" в поле title
+2024-07-09 19:52:14 [INFO]: Элемент ввода channel найден
+2024-07-09 19:52:14 [INFO]: Введен текст "AUDUSD chart" и нажата клавиша Enter в поле channel
+2024-07-09 19:52:14 [INFO]: Элемент ввода educationPost найден
+2024-07-09 19:52:14 [INFO]: Введен текст "Flag" и нажата клавиша Enter в поле educationPost
+2024-07-09 19:52:14 [INFO]: Найдено элементов ant-select-selection-search input: 7
+2024-07-09 19:52:14 [INFO]: Второй элемент ant-select-selector найден
+2024-07-09 19:52:14 [INFO]: Введен текст "support" и нажата клавиша Enter во второй ant-select-selector
+2024-07-09 19:52:14 [INFO]: Элемент ввода dealsAttribution_timeframe найден
+2024-07-09 19:52:14 [INFO]: Выбран элемент "1.0" в dealsAttribution_timeframe
+2024-07-09 19:52:15 [INFO]: Элементы ввода checkbox найдены
+2024-07-09 19:52:15 [INFO]: Клик по второму checkbox
+2024-07-09 19:52:15 [INFO]: Элемент ввода tradingCondition_direction найден
+2024-07-09 19:52:15 [INFO]: Введено значение "buy" в поле tradingCondition_direction
+2024-07-09 19:52:16 [INFO]: Скрипт Puppeteer завершен

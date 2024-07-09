@@ -1,0 +1,1 @@
+{{ 'space_factors_report_will_be_released_in_few_minutes' | trans ({'[country]': 'space_country_usa' | trans, '[event]': 'space_event_nfp' | trans }) | raw }}
